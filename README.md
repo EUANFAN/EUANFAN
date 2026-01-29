@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Euan（FANYUANHE）
+# 👋 Hi, I'm Euan
 
 I'm a passionate **Web Front-End / Full-Stack Developer** with 10 years of experience based in **Beijing, China** 🇨🇳.  
 Now relocating to **New Zealand** 🇳🇿 and open to global tech opportunities.
