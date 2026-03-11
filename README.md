@@ -2,7 +2,11 @@
 
 **Senior Frontend / Platform Engineer** with 10+ years of experience building scalable platforms used by millions of users.
 
-📍 Beijing, China | 💼 Open to global opportunities
+---
+
+📍 **Location:** Beijing, China
+💼 **Open to:** Remote / Hybrid / On-site opportunities worldwide
+✨ **Focus:** Building scalable frontend systems, design systems, and developer productivity tools
 
 ---
 
