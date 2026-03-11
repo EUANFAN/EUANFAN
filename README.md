@@ -1,6 +1,6 @@
 # Hi, I'm Euan Fan
 
-**Senior Frontend / Platform Engineer** with 10+ years of experience building scalable platforms used by millions of users.
+**Senior Frontend / Full-Stack Engineer** with 10+ years of experience building scalable platforms used by millions of users.
 
 - 📍 **Location:** Beijing, China
 - 💼 **Open to:** Remote / Hybrid / On-site opportunities worldwide
