@@ -2,7 +2,7 @@
 
 **Senior Frontend / Platform Engineer** with 10+ years of experience building scalable platforms used by millions of users.
 
-📍 Auckland, New Zealand | 🎯 Eligible to work in New Zealand (Open Work Visa) | 💼 Open to global opportunities
+📍 Beijing, China | 💼 Open to global opportunities
 
 ---
 
