@@ -104,7 +104,7 @@ Built a low-code operations platform enabling non-technical teams to rapidly gen
 ## Let's Connect
 
 - 📧 **Email:** fyh1477596895@gmail.com
-- 💼 **LinkedIn:** [fan-yuanhe](https://www.linkedin.com/in/fan-yuanhe-5b17a23a1/)
+- 💼 **LinkedIn:** [euan-fan](https://www.linkedin.com/in/euan-fan/)
 - 💻 **GitHub:** [EUANFAN](https://github.com/EUANFAN)
 
 ---
