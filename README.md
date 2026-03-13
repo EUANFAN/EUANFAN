@@ -28,6 +28,16 @@ Formerly at **Alibaba**, **Baidu**, **Meituan**, and **KE Holdings (Beike)** —
 
 ## Work Experience
 
+### Xiwangxue | Senior Full-Stack Engineer
+
+May 2022 – Jul 2025
+
+A leading K-12 education company in China, focused on academic education for Chinese students.
+
+- Led frontend infrastructure initiatives, including code standards, project conventions, component libraries, development scaffolding, and UI standards, improving engineering consistency and team productivity.
+- Owned key business areas such as operational campaigns and course commerce, and built visual platform capabilities to support scalable delivery across the organization.
+- Drove engineering productivity and system stability through platformization, standardization, and maintainability improvements.
+
 ### Meituan | Senior Software Engineer
 
 Core developer for Meituan Youxuan, a large-scale community group-buying platform integrated with the Meituan App and WeChat ecosystem.
