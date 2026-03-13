@@ -52,7 +52,7 @@ Led the development of an intelligent customer service platform, filling the gap
 - Drove cross-team adoption across **15+ internal business systems**
 - Improved operational efficiency: increased resolved cases from **200-300 to ~1,000 per day**
 
-### KE Holdings (Beike) | Senior Web Front-end Engineer
+### Beike | Senior Web Front-end Engineer
 
 Built a low-code operations platform enabling non-technical teams to rapidly generate mobile marketing campaign pages.
 
