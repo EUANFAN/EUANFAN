@@ -42,22 +42,22 @@ A leading K-12 education company in China, focused on academic education for Chi
 
 Core developer for Meituan Youxuan, a large-scale community group-buying platform integrated with the Meituan App and WeChat ecosystem.
 
-- Built and optimized the leader-side frontend infrastructure with hot-cold code separation
-- Led Group-Point ID encryption redesign, preventing horizontal privilege escalation and strengthening data protection
+- Built and optimized the leader-side frontend infrastructure, introducing hot-cold code separation and standardized engineering practices to reduce infrastructure change frequency and improve system stability.
+- Led the Group-Point ID encryption and obfuscation redesign, preventing horizontal privilege escalation caused by ID scraping and strengthening sensitive data protection.
 
 ### Baidu | Senior R&D Engineer
 
-Led the development of an intelligent customer service platform, filling the gap of in-app support functionality.
+Led the development of an intelligent customer service platform, filling the gap of in-app support functionality for Baidu's marketing applications.
 
-- Drove cross-team adoption across **15+ internal business systems**
-- Improved operational efficiency: increased resolved cases from **200-300 to ~1,000 per day**
+- Drove cross-team adoption across 15+ internal business systems, leveraging user inquiries as feedback to continuously improve product and platform capabilities.
+- Improved operational efficiency by reducing manual customer support workload and increasing resolved cases from 200-300 to around 1,000 per day.
 
 ### Beike | Senior Web Front-end Engineer
 
-Built a low-code operations platform enabling non-technical teams to rapidly generate mobile marketing campaign pages.
+Built a low-code operations platform that enables non-technical teams to assemble UI components and rapidly generate mobile marketing campaign pages.
 
-- Reduced campaign launch time from **4-5 person-days to under 30 minutes**
-- Decoupled campaign release workflows from engineering development cycles
+- Decoupled campaign release workflows from engineering development cycles, allowing operations teams to configure and launch campaigns independently.
+- Significantly improved development efficiency by reducing campaign launch time from 4-5 person-days to under 30 minutes, freeing up substantial engineering resources.
 
 ---
 
