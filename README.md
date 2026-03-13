@@ -32,7 +32,7 @@ Formerly at **Alibaba**, **Baidu**, **Meituan**, and **KE Holdings (Beike)** —
 
 May 2022 – Jul 2025
 
-A leading K-12 education company in China, focused on academic education for Chinese students.
+A leading K-12 education company in China.
 
 - Led frontend infrastructure initiatives, including code standards, project conventions, component libraries, development scaffolding, and UI standards, improving engineering consistency and team productivity.
 - Owned key business areas such as operational campaigns and course commerce, and built visual platform capabilities to support scalable delivery across the organization.
@@ -40,22 +40,31 @@ A leading K-12 education company in China, focused on academic education for Chi
 
 ### Meituan | Senior Software Engineer
 
-- Core developer for Meituan Youxuan, a large-scale community group-buying platform integrated with the Meituan App and WeChat ecosystem.
+Jul 2021 – Apr 2022
 
+Leading local life services and delivery platform in China.
+
+- Core developer for Meituan Youxuan, a large-scale community group-buying platform integrated with the Meituan App and WeChat ecosystem.
 - Built and optimized the leader-side frontend infrastructure, introducing hot-cold code separation and standardized engineering practices to reduce infrastructure change frequency and improve system stability.
 - Led the Group-Point ID encryption and obfuscation redesign, preventing horizontal privilege escalation caused by ID scraping and strengthening sensitive data protection.
 
 ### Baidu | Senior R&D Engineer
 
-- Led the development of an intelligent customer service platform, filling the gap of in-app support functionality for Baidu's marketing applications.
+Aug 2020 – Jul 2021
 
-- Drove cross-team adoption across 15+ internal business systems, leveraging user inquiries as feedback to continuously improve product and platform capabilities.
+Leading search engine and AI company in China.
+
+- Led the development of an intelligent customer service platform, filling the gap of in-app support functionality for Baidu's marketing applications.
+- Drove cross-team adoption of the platform across 15+ internal business systems, leveraging user inquiries as feedback to continuously improve product and platform capabilities.
 - Improved operational efficiency by reducing manual customer support workload and increasing resolved cases from 200-300 to around 1,000 per day.
 
 ### Beike | Senior Web Front-end Engineer
 
-- Built a low-code operations platform that enables non-technical teams to assemble UI components and rapidly generate mobile marketing campaign pages.
+Feb 2018 – Mar 2020
 
+Leading property and living services platform in China.
+
+- Built a low-code operations platform that enables non-technical teams to assemble UI components and rapidly generate mobile marketing campaign pages.
 - Decoupled campaign release workflows from engineering development cycles, allowing operations teams to configure and launch campaigns independently.
 - Significantly improved development efficiency by reducing campaign launch time from 4-5 person-days to under 30 minutes, freeing up substantial engineering resources.
 
