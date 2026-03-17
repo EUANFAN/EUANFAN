@@ -2,7 +2,7 @@
 
 **Senior Frontend / Full-Stack Engineer** with 10+ years of experience building scalable platforms used by millions of users.
 
-- 🌍 **Portfolio:** [Portfolio](https://euanfan.github.io/Portfolio/)
+- 🌍 **Portfolio:** [Euan Fan](https://euanfan.github.io/Portfolio/)
 - 📍 **Location:** Beijing, China
 - 💼 **Open to:** Remote / Hybrid / On-site opportunities worldwide
 - ✨ **Focus:** Building scalable frontend systems, design systems, and developer productivity tools
