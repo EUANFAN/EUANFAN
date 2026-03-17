@@ -2,6 +2,7 @@
 
 **Senior Frontend / Full-Stack Engineer** with 10+ years of experience building scalable platforms used by millions of users.
 
+- 🌍 **Portfolio:** [Portfolio](https://euanfan.github.io/Portfolio/)
 - 📍 **Location:** Beijing, China
 - 💼 **Open to:** Remote / Hybrid / On-site opportunities worldwide
 - ✨ **Focus:** Building scalable frontend systems, design systems, and developer productivity tools
@@ -125,6 +126,7 @@ Leading property and living services platform in China.
 - 📧 **Email:** fyh1477596895@gmail.com
 - 💼 **LinkedIn:** [euan-fan](https://www.linkedin.com/in/euan-fan/)
 - 💻 **GitHub:** [EUANFAN](https://github.com/EUANFAN)
+- 🌍 **Portfolio:** [Portfolio](https://euanfan.github.io/Portfolio/)
 
 ---
 
