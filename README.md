@@ -22,7 +22,7 @@ I'm a Senior Frontend / Full-Stack Engineer with a proven track record of archit
 - 📦 Led development of shared component libraries adopted across **multiple business units**
 - 💡 Delivered core systems supporting products used by **millions of users**
 
-Formerly at **Alibaba**, **Baidu**, **Meituan**, and **KE Holdings (Beike)** — leading the architecture of company-wide systems.
+Formerly at **Baidu**, **Meituan**, and **KE Holdings (Beike)** — leading the architecture of company-wide systems.
 
 ---
 
