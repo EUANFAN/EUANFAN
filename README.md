@@ -18,9 +18,9 @@ I'm a Senior Frontend / Full-Stack Engineer with a proven track record of archit
 - **Engineering Productivity** — Building low-code platforms and developer tools that accelerate product delivery
 
 **Key Achievements:**
-- 🚀 Architected a low-code platform that reduced campaign launch time from **days to 30 minutes**
+- 🚀 Reduced campaign launch cycles from **days to minutes** through low-code platform design
 - 📦 Led development of shared component libraries adopted across **multiple business units**
-- 💡 Improved engineering efficiency through scalable platform design
+- 💡 Delivered core systems supporting products used by **millions of users**
 
 Formerly at **Alibaba**, **Baidu**, **Meituan**, and **KE Holdings (Beike)** — leading the architecture of company-wide systems.
 
