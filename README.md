@@ -29,7 +29,7 @@ Formerly at **Baidu**, **Meituan**, and **KE Holdings (Beike)** — leading the 
 
 ## Work Experience
 
-### Xiwangxue | Senior Full-Stack Engineer
+### Xiwangxue | Senior Software Engineer
 
 May 2022 – Jul 2025
 
