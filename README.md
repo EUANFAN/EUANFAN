@@ -1,180 +1,180 @@
-# 你好，我是范园贺
+# Hi, I'm Euan Fan
 
-资深前端 / 全栈工程师，常驻中国北京，专注于多端业务与平台型系统建设，持续提升复杂业务的交付效率与稳定性，目前正在寻求新的工作机会。
+Senior Frontend / Full-Stack Engineer based in Beijing, China, with **10+ years of experience** building multi-platform products and internal platforms. I focus on improving delivery speed, engineering quality, and system reliability for complex businesses, and I am currently open to new opportunities.
 
-- **所在地：** 中国，北京
-- **当前状态：** 正在寻求新的工作机会
-- **技术方向：** React、TypeScript、Node.js
-
----
-
-## 关于我
-
-资深前端 / 全栈工程师，具备多端业务与平台化建设经验，擅长工程化、性能优化和通用能力沉淀，能够支撑复杂业务的高效迭代与稳定交付。
-
-- 曾任职于 **希望学、美团、百度**，主要聚焦低代码平台、前端架构设计与可复用系统建设。
-- 擅长在复杂业务场景中搭建兼顾性能、效率与可维护性的工程方案，推动团队稳定交付。
-- 目前常驻北京，正在寻求新的工作机会。
-
-## 核心优势
-
-- 多端业务架构设计与交付落地
-- 平台化与低代码系统建设
-- 前端基础设施与工程化效能优化
-- 组件体系与跨团队复用推进
-- 性能治理与高并发场景支撑
-
-## 关键成果
-
-- 从 0 到 1 搭建前端基础设施，统一组件库、UI 规范与工具体系，推动基础能力在多业务线复用落地。
-- 负责低代码平台建设，将活动页面上线周期从 **4-5 天** 缩短至 **30 分钟以内**。
-- 搭建统一课程交易平台，支撑核心销售业务及百万级用户规模下的高并发交易场景。
-- 主导智能客服平台建设并落地 **15+** 个内部系统，推动日均处理量由约 **100-200** 提升至约 **1000+**。
+- **Location:** Beijing, China
+- **Status:** Open to new opportunities
+- **Core Stack:** React, TypeScript, Node.js
 
 ---
 
-## 工作经历
+## About Me
 
-### 希望学 ｜ 资深前端工程师
+Senior Frontend / Full-Stack Engineer with deep experience in multi-platform products and internal platform development. Strong in engineering systems, performance optimization, and reusable foundations that help complex businesses ship faster and more reliably.
 
-**2022年5月 - 2025年7月**  
-中国领先的 K12 教育公司。
+- Previously worked at **Xiwangxue, Meituan, and Baidu**, with a focus on low-code platforms, frontend architecture, and shared systems.
+- Skilled at designing practical engineering solutions that balance performance, delivery speed, and maintainability in complex product environments.
+- Based in Beijing and currently open to new opportunities.
 
-- 负责用户增长业务前端建设，覆盖微信小程序、H5 及 PC 管理后台，支撑多端业务迭代与稳定交付。
-- 从 0 到 1 完成前端基础设施建设，统一组件库、UI 规范与工程工具链，提升研发效率与跨项目一致性。
-- 主导运营活动低代码平台建设，将页面上线周期从 4 至 5 天缩短至 30 分钟以内，显著提升运营活动交付效率。
-- 搭建统一课程交易平台，支撑核心销售业务与高并发交易场景，满足百万级用户规模下的交易承载需求。
+## Key Strengths
 
-**关键词：** 低代码平台、前端基础建设、交易系统、UI规范、工程化
+- Multi-platform architecture and delivery
+- Platform engineering and low-code systems
+- Frontend infrastructure and engineering productivity
+- Component systems and cross-team reuse
+- Performance optimization for high-traffic products
 
-### 美团 ｜ 资深软件工程师
+## Impact Highlights
 
-**2021年7月 - 2022年4月**  
-中国领先的本地生活与即时配送平台。
-
-- 负责美团优选社区团购业务前端建设，覆盖美团 App 与微信生态，支撑团长端核心业务迭代与体验优化。
-- 主导团长端前端工程化与基础能力建设，通过冷热代码分离、规范治理与能力沉淀，提升系统稳定性与研发效率。
-- 推进微信小程序性能优化，持续改善页面加载效率、运行性能与关键链路体验。
-- 推进通用组件体系建设及跨团队复用，降低重复开发成本，提升交付效率与体验一致性。
-
-**关键词：** 社区团购、微信生态、前端工程化、性能优化、组件体系
-
-### 百度 ｜ 高级研发工程师
-
-**2020年8月 - 2021年7月**  
-中国领先的搜索引擎与 AI 科技公司。
-
-- 负责百度营销智能客服平台建设，为百度营销相关产品提供统一的站内客服支持能力。
-- 联动产品、运营及多业务团队推动平台落地，支撑 **15+** 个内部业务系统接入与复用。
-- 基于真实用户反馈持续迭代平台能力与使用体验，提升平台在不同业务场景下的适配性与可用性。
-- 通过平台化能力建设降低人工客服介入成本，推动日均处理量由约 **100-200** 提升至约 **1000+**，显著提升整体运营效率。
-
-**关键词：** 智能客服平台、运营效率提升、平台化能力建设、用户反馈迭代
+- Built frontend infrastructure from the ground up, standardizing component libraries, UI guidelines, and engineering tooling across multiple product lines.
+- Led development of a low-code platform that reduced campaign page delivery time from **4-5 days** to **under 30 minutes**.
+- Built a unified course commerce platform supporting a core sales business and high-concurrency transactions at million-user scale.
+- Led an intelligent customer service platform adopted by **15+** internal systems, increasing daily handled cases from roughly **100-200** to **1,000+**.
 
 ---
 
-## 代表项目
+## Experience
 
-### 低代码活动平台
+### Xiwangxue | Senior Frontend Engineer
 
-面向运营团队的低代码平台，支持业务方通过可视化方式自主搭建并发布营销活动页面。
+**May 2022 - Jul 2025**  
+A leading K-12 education company in China.
 
-**项目背景**
+- Owned frontend development for user growth initiatives across WeChat Mini Programs, H5, and PC admin systems, supporting reliable delivery across multiple platforms.
+- Built frontend infrastructure from scratch, including a shared component library, UI standards, and engineering tooling, improving consistency and development efficiency across projects.
+- Led the low-code platform for operational campaigns, reducing page launch time from 4-5 days to under 30 minutes.
+- Built a unified course commerce platform to support the company's core sales workflows and high-concurrency transactions at million-user scale.
 
-- 随着业务活动需求快速增长，传统前端逐页开发模式在交付效率、复用能力和协作成本上逐渐成为瓶颈。
-- 为支撑多业务线高频活动投放，提升页面生产效率并降低研发依赖，推动建设面向运营团队的低代码活动平台。
+**Highlights:** Low-Code Platform, Frontend Infrastructure, Commerce Platform, UI Standards, Engineering Productivity
 
-**项目成果**
+### Meituan | Senior Software Engineer
 
-- 将单个活动页面的上线周期从 **4-5 个工作日** 缩短至 **30 分钟以内**。
-- 搭建可视化编辑器，使运营团队能够独立完成活动页面搭建与发布，降低对研发资源的依赖。
-- 通过可复用组件、共享模板与统一素材管理减少重复开发，让页面交付更高效、更稳定。
-- 平台累计支撑 **6+** 业务线、**3000+** 活动页面生产，沉淀 **20+** 页面模板与 **50+** 通用组件。
+**Jul 2021 - Apr 2022**  
+A leading local services and on-demand delivery platform in China.
 
-**我的职责**
+- Built frontend features for Meituan Youxuan's community group-buying business across the Meituan app and WeChat ecosystem, supporting core workflows for group leaders.
+- Led frontend engineering improvements for the group-leader experience, including hot/cold code splitting, standards, and shared foundations to improve stability and productivity.
+- Drove performance optimization for the WeChat Mini Program, improving load speed, runtime performance, and critical user flows.
+- Expanded reusable component patterns across teams, reducing duplicate work and improving consistency in delivery and user experience.
 
-- 担任项目前端负责人及核心开发，负责平台整体架构设计与关键技术方案决策。
-- 主导可视化编辑器、渲染层与可复用组件体系的设计与开发。
-- 搭建平台核心基础能力，使其能够支撑不同业务场景下的规模化页面生产与复用。
+**Highlights:** Community Group Buying, WeChat Ecosystem, Frontend Engineering, Performance Optimization, Reusable Components
 
-**解决的问题**
+### Baidu | Senior Software Engineer
 
-- 通过统一页面数据模型与制定组件开发接入流程，规范跨团队活动页面开发方式。
-- 提升通用组件、模板与历史活动资产的复用率，减少重复前端开发工作。
-- 基于结构化的 MobX 状态管理提升编辑器的一致性与可维护性。
-- 通过更直观的可视化交互流程，增强运营团队自主搭建与发布页面的能力。
-- 结合 SSR 与更高效的渲染、资源加载策略，优化面向用户页面的性能表现。
+**Aug 2020 - Jul 2021**  
+A leading search engine and AI company in China.
 
-**技术栈：** React、TypeScript、JavaScript、Node.js、MongoDB
+- Built an intelligent customer service platform for Baidu Marketing products, providing a unified in-product support capability across internal applications.
+- Partnered with product, operations, and multiple business teams to roll the platform out to **15+** internal systems.
+- Iterated on platform capabilities based on real user feedback, improving usability and fit across different business scenarios.
+- Reduced reliance on manual support and increased daily handled cases from roughly **100-200** to **1,000+** through platformized support workflows.
 
-### 课程交易平台
-
-统一的内部课程交易平台，支持运营团队在同一系统内完成商品配置、促销管理、购买规则设置与活动运营，提升整体效率、一致性与可扩展性。
-
-**项目背景**
-
-- 随着公司业务规模不断扩大，原有的分散式运营流程在效率、一致性与可扩展性上逐渐成为瓶颈。
-- 为提升运营效率、降低跨系统切换成本并统一数据口径，推动建设统一的课程交易平台。
-
-**项目成果**
-
-- 搭建统一课程交易平台，支撑公司核心销售业务及高并发交易场景下的数百万用户需求。
-- 整合 **4+** 个原本分散的运营流程至同一系统，降低跨系统切换、人工协同与管理成本，提升运营流程一致性。
-- 沉淀统一的权限体系、请求流转与复杂表单处理能力，提升系统一致性、可维护性与运行稳定性。
-- 为后续交易场景扩展提供统一能力支撑，降低新功能开发与接入成本。
-
-**我的职责**
-
-- 负责课程交易平台从方案设计到交付落地的全流程建设，推动分散运营流程向统一平台整合。
-- 设计前端整体架构与核心技术方案，覆盖通用 CRUD 抽象、权限模型、请求流转及复杂表单体系。
-- 协同产品、设计、后端与运营团队推进需求梳理、方案对齐与平台落地，确保系统建设贴合实际业务增长需求。
-
-**解决的问题**
-
-- 主导 **20+** 后台模块的 CRUD 抽象，减少重复前端开发工作，提升运营类需求交付效率。
-- 构建细粒度权限体系，支撑复杂内部业务场景下安全、可控的角色访问管理。
-- 设计复杂嵌套表单的前端架构，支持商品、促销与购买规则等配置场景的持续演进。
-- 建立多环境构建体系，提升发布稳定性，并支撑平台长期扩展。
-
-**技术栈：** React、TypeScript、JavaScript、Python、MySQL、Redis
-
-### 工程效能与基建平台
-
-面向公司内部研发团队建设的统一门户平台，集中沉淀并展示技术基建与工程效能项目成果，推动基础设施能力标准化、可视化与持续落地。
-
-**项目背景**
-
-- 公司前端缺乏统一的基础设施、UI 规范与工程标准，导致代码风格不一致、重复建设较多、开发效率偏低，跨项目协作成本也随之上升。
-- 为提升研发规范性、协作一致性与多业务线交付效率，推动前端技术基础建设从 0 到 1 落地。
-
-**项目成果**
-
-- 从 0 到 1 完成公司前端技术基础建设，建立统一组件库、UI 规范、代码规范与工程工具体系。
-- 推动基础建设在全公司范围内落地使用，减少重复开发，提升多业务线复用率与协作一致性。
-- 统一前端技术方案、项目脚手架与开发规范，减少新项目重复搭建与配置成本。
-- 沉淀通用组件和工程能力，改善多项目开发方式不统一的问题，提升协作效率与项目可维护性。
-
-**我的职责**
-
-- 负责公司前端架构与技术基建整体规划，主导技术方向制定、方案设计与分阶段落地推进。
-- 统筹 B 端、C 端、小程序组件库，以及项目脚手架、代码规范、UI 规范等基建模块建设。
-- 参与核心方案设计与关键模块落地，推进基础设施建设与实际业务场景结合。
-- 持续跟进业务接入与使用反馈，推动基建能力迭代优化与团队落地使用。
-
-**解决的问题**
-
-- 明确以前端 React 为核心的技术路线，减少技术分散带来的维护成本与协作问题。
-- 面向 B 端、C 端和小程序场景，统一组件、规范与工具链设计，兼顾复用性与业务差异。
-- 在业务持续交付的前提下分阶段推进基建建设，平衡短期需求支持与长期能力建设。
-- 推动团队共同参与建设与接入，解决基建“怎么接、怎么用、怎么持续维护”的落地问题。
-
-**技术栈：** Umi、Markdown、AntDesign、React、TypeScript、JavaScript
+**Highlights:** Intelligent Support Platform, Operational Efficiency, Platformization, User-Driven Iteration
 
 ---
 
-## 技术栈
+## Featured Projects
 
-### 前端
+### Low-Code Campaign Platform
+
+A low-code platform for operations teams to visually build and publish marketing campaign pages without relying on engineers for every launch.
+
+**Background**
+
+- As campaign demand grew across business lines, the traditional page-by-page frontend delivery model became a bottleneck in speed, reuse, and collaboration.
+- The platform was built to help operations teams launch campaigns faster with less engineering dependency.
+
+**Outcomes**
+
+- Reduced the launch cycle for a single campaign page from **4-5 working days** to **under 30 minutes**.
+- Built a visual editor that enabled operations teams to create and publish campaign pages independently.
+- Improved delivery speed and consistency through reusable components, shared templates, and centralized asset management.
+- Scaled the platform to support **6+** business lines and **3,000+** campaign pages, with **20+** page templates and **50+** reusable components.
+
+**Role**
+
+- Served as frontend lead and core engineer, responsible for overall architecture and key technical decisions.
+- Led the design and implementation of the visual editor, rendering layer, and reusable component system.
+- Built the core platform foundations needed to support large-scale page production across different business scenarios.
+
+**Challenges Solved**
+
+- Standardized cross-team page development with a unified page schema and a clear component integration model.
+- Increased reuse across shared components, templates, and historical campaign assets to reduce repetitive frontend work.
+- Improved editor consistency and maintainability with structured MobX-based state management.
+- Made the authoring workflow more intuitive so operations teams could build and publish pages on their own.
+- Improved user-facing performance through SSR plus more efficient rendering and asset-loading strategies.
+
+**Tech Stack:** React, TypeScript, JavaScript, Node.js, MongoDB
+
+### Course Commerce Platform
+
+A unified internal commerce platform that lets operations teams manage product setup, promotions, purchase rules, and campaign operations in one place, improving efficiency, consistency, and scalability.
+
+**Background**
+
+- As the business scaled, operational workflows were spread across multiple systems, creating inefficiency, inconsistent data, and poor extensibility.
+- The platform was built to centralize operations and support future growth.
+
+**Outcomes**
+
+- Built a unified course commerce platform supporting the company's core sales business and high-concurrency transactions at million-user scale.
+- Consolidated **4+** previously fragmented operational workflows into one system, reducing system switching, manual coordination, and management overhead.
+- Standardized core platform capabilities including permissions, request flow, and complex form handling, improving consistency, maintainability, and operational stability.
+- Established a shared foundation for future commerce scenarios, reducing the cost of adding new features and integrations.
+
+**Role**
+
+- Owned the end-to-end design and delivery of the Course Commerce Platform, consolidating fragmented operational workflows into one unified system.
+- Defined the frontend architecture and core technical patterns for CRUD workflows, permissions, request orchestration, and complex forms.
+- Worked closely with product, design, backend, and operations teams to align requirements and ship a platform that matched real business growth needs.
+
+**Challenges Solved**
+
+- Created reusable CRUD abstractions across **20+** admin modules to speed up delivery for operations-heavy features.
+- Built a fine-grained permission model for secure, controlled access across complex internal workflows.
+- Designed a frontend architecture for deeply nested forms, supporting ongoing evolution of product, promotion, and purchase-rule configuration.
+- Established a multi-environment build system to improve release stability and long-term scalability.
+
+**Tech Stack:** React, TypeScript, JavaScript, Python, MySQL, Redis
+
+### Engineering Productivity and Frontend Infrastructure Platform
+
+A unified internal portal for engineering productivity and frontend infrastructure, designed to make shared capabilities more standardized, visible, and easier to adopt across the company.
+
+**Background**
+
+- The frontend organization lacked shared infrastructure, UI standards, and engineering conventions, which led to inconsistent code quality, repeated work, and higher cross-project collaboration costs.
+- This initiative was launched to establish frontend foundations from scratch.
+
+**Outcomes**
+
+- Built the company's frontend foundations from the ground up, including shared component libraries, UI standards, code standards, and engineering tooling.
+- Rolled the infrastructure out across teams, reducing duplicate work and improving reuse and consistency across business lines.
+- Standardized project scaffolding, technical conventions, and development workflows, lowering setup costs for new projects.
+- Turned shared components and engineering capabilities into reusable assets, improving collaboration and maintainability across multiple projects.
+
+**Role**
+
+- Owned the company's frontend architecture and infrastructure roadmap, driving technical direction, solution design, and phased rollout.
+- Led the build-out of B2B, B2C, and Mini Program component libraries, along with project scaffolding, coding standards, and UI standards.
+- Stayed hands-on with key solution design and core implementation, connecting infrastructure work to real business needs.
+- Continuously iterated based on adoption feedback to improve the platform and drive practical team-wide usage.
+
+**Challenges Solved**
+
+- Aligned the organization on a React-centered frontend stack to reduce fragmentation and maintenance overhead.
+- Unified components, standards, and tooling across B2B, consumer, and Mini Program scenarios while preserving room for business-specific needs.
+- Rolled the infrastructure out in phases, balancing day-to-day delivery needs with long-term platform investment.
+- Drove team adoption and contribution so the platform was not only built, but actually used and maintained.
+
+**Tech Stack:** Umi, Markdown, Ant Design, React, TypeScript, JavaScript
+
+---
+
+## Skills
+
+### Frontend
 
 - React
 - JavaScript
@@ -182,7 +182,7 @@
 - HTML5
 - CSS3
 
-### 构建工具
+### Build Tools
 
 - Webpack
 - Vite
@@ -191,37 +191,37 @@
 - npm
 - pnpm
 
-### 后端
+### Backend
 
 - Node.js
 - MongoDB
 - Koa
 - Redis
-- API 开发
+- API Development
 
-### AI 开发
+### AI Tools
 
 - ChatGPT
 - Cursor
 - Claude Code
-- AI 辅助编程、调试与内容生成
+- AI-assisted coding, debugging, and content creation
 
 ---
 
-## 教育背景
+## Education
 
-- **北华大学** ｜ 网络工程（2011 - 2015）
-
----
-
-## 联系方式
-
-- **邮箱：** [fyh1477596895@gmail.com](mailto:fyh1477596895@gmail.com)
-- **电话：** 15910269280
-- **LinkedIn：** [euan-fan](https://www.linkedin.com/in/euan-fan/)
-- **GitHub：** [EUANFAN](https://github.com/EUANFAN)
+- **Beihua University** | Network Engineering (2011 - 2015)
 
 ---
 
-> 期待加入优秀团队，持续打造真正有价值的产品与平台能力。
+## Contact
 
+- **Email:** [fyh1477596895@gmail.com](mailto:fyh1477596895@gmail.com)
+- **Phone:** 15910269280
+- **WeChat:** 15910269280
+- **LinkedIn:** [euan-fan](https://www.linkedin.com/in/euan-fan/)
+- **GitHub:** [EUANFAN](https://github.com/EUANFAN)
+
+---
+
+> Interested in building meaningful products and strong platform foundations with great teams.
