@@ -1,13 +1,4 @@
 # Hi, I'm YuanHe Fan
-
-**Senior Frontend Engineer**  
-Auckland, New Zealand
-
-Focused on multi-platform products and platform engineering, improving delivery speed and reliability for complex businesses.
-
-**Core Stack:** React/Next.js · TypeScript · Node.js  
-**Experience:** 10+ Years
-
 ## About
 
 Senior Frontend Engineer with strong full-stack experience in multi-platform products and internal platform development. Strong in engineering systems, performance optimization, and reusable foundations that help complex businesses ship faster and more reliably.
